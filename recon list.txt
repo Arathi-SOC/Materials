@@ -16,3 +16,5 @@ These are the webs that I Use Everyday ??
     https://github.com/aboul3la/Sublist3r
     https://github.com/rbsec/dnscan
     https://github.com/Cleveridge/cleveridge-subdomain-scanner
+    
+    Suggestions are open for blogs also
